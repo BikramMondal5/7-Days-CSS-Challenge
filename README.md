@@ -1,6 +1,6 @@
-# 🚀🌐 100-Days-CSS-Challenge
+# 🚀🌐 7-Days-CSS-Challenge
 
-A huge collection of creative css projects for beginners, as solutions of the 100 days css challenge 
+A huge collection of creative css projects for beginners, as solutions of the `100 days css challenge` 
 
  ## 🛠️ Dependencies 
    
@@ -12,12 +12,12 @@ A huge collection of creative css projects for beginners, as solutions of the 10
    
    1. Clone the repository:
       ```bash
-      git clone https://github.com/BikramMondal5/100-Days-CSS-Challenge.git
+      git clone https://github.com/BikramMondal5/7-Days-CSS-Challenge.git
       ```
       
    2. Navigate to the project directory:
       ```bash
-      cd 100-Days-CSS-Challenge
+      cd 7-Days-CSS-Challenge
       ```
    
    ## 🤝 Contribution
